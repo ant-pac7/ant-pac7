@@ -1,5 +1,4 @@
-- Hello there, AntPac7 greets to to his humble profile.
-- Pronouns: He/Him
+- Hello there, AntPac7 welcomes you to his humble profile.
 - I am a first year engineering student in the field of Information Technology.
 - I'm still learning about stuff here; how networking works, how things happens on a motherboard, what are the after-effects etc. I'm very curious about many things and I have vast and varied interests.
 - Have a will to do lots but not enough time for all, so do only what you must and leave all else to rust.
